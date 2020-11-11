@@ -1,5 +1,5 @@
-|Auteurs|TITRE|Thème|Date|Stars|Notes|Bookshelf|
-|-------|-----|-----|----|-----|-----|---------|						
+|Auteur|Titre|Thème|Date|Stars|Notes|Bookshelf|
+|------|-----|-----|----|-----|-----|---------|						
 |Yourcenar, Marguerite|L'œuvre au noir|Roman|2020-10|***|||		
 |Morin, Edgar|La méthode 1 : La nature de la nature|Essai|2020-10|****|	Fondements de la pensée complexe|x|
 |Tournadre, Nicolas|Méditations végétales et pensées minérales|Poésie|2020-10|****|	Élargi les horizons sur différentes cultures||	
