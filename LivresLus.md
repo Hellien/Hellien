@@ -47,8 +47,7 @@
 |Dionne, Lynda/ Pelletier, Georges|Des forêts et des hommes 1880-1982|Histoire|2018-12|***|Beau documentaire photographique||	
 |Zep|The end|2018-12|****|BD avec Francis Hallé comme personnage.||	
 |Lec, Stanislaw Jerzy|Nouvelles pensées échevelées|Aphorismes|2018-11|*****|Recueil de pensées teintées d'humour noir.|x|
-|Chester, Bronwyn|Une île d'arbres|Arbres|2018-11	
-|***|L'île de Montréal raconté à travers 50 arbres||	
+|Chester, Bronwyn|Une île d'arbres|Arbres|2018-11|***|L'île de Montréal raconté à travers 50 arbres||	
 |Sinek, Simon|Commencez par le pourquoi|2018-10|****|Pertinant mais redondant, peut se résumer par la priorisation de: 1-POURQUOi-2-COMMENT-3-QUOI||
 |Vaughn James, Martin|La cage|Roman graphique|2018-10|***|Graphiquement très intéressant. S'inspire du roman nouveau.||	
 |Lao Tseu|Tao Te King|Spiritualité, Taoïsme|2018-10|*****|À LIRE ABSOLUMENT|x|
